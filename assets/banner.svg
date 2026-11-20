@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-labelledby="t d">
+  <title id="t">impressora-hp-deskjet-2300</title>
+  <desc id="d">Banner do projeto: central de comando via terminal para a impressora HP DeskJet 2300 no Linux, com CUPS, HPLIP e SANE.</desc>
+  <rect width="1280" height="360" rx="18" fill="#0d1117"/>
+  <rect x="0" y="0" width="1280" height="8" fill="#2f81f7"/>
+  <rect x="0" y="0" width="320" height="8" fill="#f85149"/>
+  <rect x="0" y="352" width="1280" height="8" fill="#2f81f7"/>
+  <rect x="960" y="352" width="320" height="8" fill="#f85149"/>
+
+  <!-- Ícone: impressora + prompt -->
+  <g transform="translate(70,80)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="50" y="0" width="100" height="70" rx="6" fill="#161b22" stroke="#2f81f7" stroke-width="6"/>
+    <rect x="40" y="120" width="120" height="90" rx="6" fill="#161b22" stroke="#2f81f7" stroke-width="6"/>
+    <line x1="58" y1="148" x2="142" y2="148" stroke="#f85149" stroke-width="6"/>
+    <line x1="58" y1="168" x2="122" y2="168" stroke="#8b949e" stroke-width="5"/>
+    <rect x="0" y="55" width="200" height="85" rx="14" fill="#0d1117" stroke="#2f81f7" stroke-width="6"/>
+    <polyline points="34,80 56,97 34,114" stroke="#f85149" stroke-width="8"/>
+    <line x1="72" y1="114" x2="106" y2="114" stroke="#2f81f7" stroke-width="8"/>
+  </g>
+
+  <!-- Texto -->
+  <g font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono',Consolas,monospace">
+    <text x="320" y="150" font-size="58" font-weight="700" fill="#ffffff">impressora-hp-deskjet-2300</text>
+    <text x="320" y="208" font-size="28" fill="#c9d1d9">Central de comando da impressora via terminal</text>
+    <text x="320" y="262" font-size="24" fill="#2f81f7">CUPS</text>
+    <text x="398" y="262" font-size="24" fill="#8b949e">•</text>
+    <text x="428" y="262" font-size="24" fill="#2f81f7">HPLIP</text>
+    <text x="526" y="262" font-size="24" fill="#8b949e">•</text>
+    <text x="556" y="262" font-size="24" fill="#2f81f7">SANE</text>
+    <text x="320" y="312" font-size="24" fill="#f85149">$</text>
+    <text x="348" y="312" font-size="24" fill="#8b949e">./impressora --status</text>
+    <rect x="652" y="294" width="13" height="24" fill="#f85149"/>
+  </g>
+</svg>
