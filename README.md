@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.svg"
+       alt="Banner do projeto impressora-hp-deskjet-2300: central de comando da impressora HP DeskJet 2300 via terminal no Linux, com CUPS, HPLIP e SANE"
+       width="100%">
+</p>
+
 # Central de Comando — HP DeskJet 2300 Series
 
 Utilitário de linha de comando em Bash para operação completa da impressora **HP DeskJet 2300 series** em Linux. Reúne, em um único menu interativo com banner colorido, rotinas de impressão, digitalização, cópia (xerox), gestão de fila, leitura de suprimentos e diagnóstico de conectividade USB.
